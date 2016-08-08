@@ -1,2 +1,3 @@
 # ImapReduce
 Incremental Map Reduce for Data Mining
+I am Working in ... comapany. i complete my Graduation and Post-Graduation in computer science. with First Class... 
